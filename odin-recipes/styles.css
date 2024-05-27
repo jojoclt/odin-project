@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    background-color: yellow;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    color: blue;
+    font-size: 1.5em;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
